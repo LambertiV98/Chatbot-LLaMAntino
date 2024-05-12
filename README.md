@@ -5,7 +5,8 @@ this project is a chatbot based on LLaMAntino model version of [Ollama](https://
 * Ollama 0.1.33 or later
 ## Installation
 To install this project:
-* download Ollama [application](https://github.com/ollama/ollama?tab=readme-ov-file)
+* download Ollama [application](https://github.com/ollama/ollama?tab=readme-ov-file).
+  
 execute this command:
 * pip install
 * pip install Flask
