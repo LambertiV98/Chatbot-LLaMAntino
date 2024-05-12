@@ -8,7 +8,6 @@ To install this project:
 * download Ollama [application](https://github.com/ollama/ollama?tab=readme-ov-file).
   
 execute these commands:
-* pip install
 * pip install Flask
 * pip install ollama
 
