@@ -1,5 +1,5 @@
 # Chatbot-LLaMAntino
-this project is a chatbot based on LLaMAntino model version of [Ollama](https://ollama.com/ifioravanti/llamantino-2)
+This project is a chatbot based on LLaMAntino model version hosted using [Ollama](https://ollama.com/ifioravanti/llamantino-2)
 ## Requirements
 * Python 3.10.11 or later
 * Ollama 0.1.33 or later
@@ -7,7 +7,7 @@ this project is a chatbot based on LLaMAntino model version of [Ollama](https://
 To install this project:
 * download Ollama [application](https://github.com/ollama/ollama?tab=readme-ov-file).
   
-execute this command:
+execute these commands:
 * pip install
 * pip install Flask
 * pip install ollama
