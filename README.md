@@ -11,6 +11,7 @@ execute this command:
 * pip install Flask
 * pip install ollama
 
-##License
+## License
+
 * This project is released under the MIT license. For further details, refer to the LICENSE file.
 
